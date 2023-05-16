@@ -1,5 +1,6 @@
 # ADAPTmap-Genotype-Data-Analysis
 This repository contains code for analyzing the ADAPTmap genotype data. The analysis includes data quality , visualization, and performing Principal Component Analysis 
+Data source: https://datadryad.org/stash/dataset/doi:10.5061/dryad.v8g21pt
 
 # Steps involved and R codes.
 # Installation
